@@ -1,0 +1,38 @@
+div.square {
+width: 100px;
+			height: 12.5%;
+			width: 12.5%;
+			border:1px solid gray;
+			float: left;
+			margin: 20px;
+
+}
+
+
+/*div.l{
+	float: left;
+}
+
+div.r{
+	float: right;
+}*/
+
+* {
+ font-size: 100%;
+ font-family: 'Raleway', sans-serif;
+}
+
+h1 {
+	font-family: 'Raleway', sans-serif;
+	margin-left: 1.66%;
+	font-size: 20px;
+	font-weight: 800;
+	text-transform: uppercase;
+	border-bottom: 2px solid #F1f1f1;
+	width: 29%;
+	padding: 10px;
+}
+
+input {
+	width: 100%;
+}
